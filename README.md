@@ -1,0 +1,2 @@
+# artchainai
+Artchain AI is a real-time Blockchain Verification System  for the art industry that brings security and speed to art transactions—  from identifying and handling, to purchasing and selling.  In the global art world, safety and accountability are paramount.  Artchain AI has revolutionized the ownership tracking process, protecting stakeholders from manipulation and providing artwork accountability.
